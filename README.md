@@ -1,7 +1,7 @@
 # Python
 **Contains helpful information and questions for Python 3+**
 
-#### Currently in progress and current status is 10%
+#### Currently in progress
 
 # FILES
 ### 1. <a href="https://github.com/aayush3299/Python/blob/master/Introduction.ipynb">Introduction</a>
@@ -27,5 +27,9 @@ Strings
 Lists    
 Dictionaries    
 Set    
-Loops     
-Conditional statements
+~Loops~     
+~Conditional statements~
+
+<hr>
+<b>Due to personal reasons the theory part of strings, Lists, Dictionaries and Sets will not be uploaded due to time constraints</b><br>
+ <b><i>Questions</b>will be updated on daily basis although!</i>
