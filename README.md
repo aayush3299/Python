@@ -1,9 +1,8 @@
 # Python
-**Contains helpful information and questions for Python 3+**
 
-#### Currently in progress
+A Basic Guide made by Aayush Gandhi filling in on his data science quest and at the same time teaching others in a short and precise manner.
+<i>*Note - This repo is in progress and is updated regularly as and when I learn new topics.</i>
 
-# FILES
 ### 1. <a href="https://github.com/aayush3299/Python/blob/master/Introduction.ipynb">Introduction</a>
 Contains Python origin and about.<br>
 Also contains difference between python and other languages
